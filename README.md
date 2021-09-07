@@ -11,10 +11,20 @@ This should install node modules
 * axios
 * bluebird
 
-# Usage
+## Usage
 `node app.js`
 
-# Sample data
+Input Files:
+* district_list.json
+
+Output Files:
+* data/state_district_url.txt
+* data/area_list.txt
+* data/pincodes_raw.txt
+
+
+
+## Sample data
 ```
 BanaSeppaEast KamengARUNACHAL PRADESH 790102
 ChyangtajoSeppaEast KamengARUNACHAL PRADESH 790102
