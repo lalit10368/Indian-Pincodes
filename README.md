@@ -20,7 +20,7 @@ Input Files:
 Output Files:
 * data/state_district_url.txt
 * data/area_list.txt
-* data/pincodes_raw.txt
+* [data/pincodes_raw.txt](https://github.com/lalit10368/Indian-Pincodes/blob/2eb289322a14b785260d4235efc8531906ff27db/data/pincodes_raw.txt)
 
 
 
